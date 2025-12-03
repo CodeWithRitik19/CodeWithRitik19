@@ -132,7 +132,8 @@
     <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
-    <img src="https://www.bing.com/images/search?view=detailV2&ccid=lSo3zFG1&id=0B35EABEA6334C13F62AD74ED77A7F340A9D21EC&thid=OIP.lSo3zFG1Js6rCMqLgJjcSgHaCH&mediaurl=https%3A%2F%2Fimages.prismic.io%2Foxylabs-web%2FZ_0ZvuvxEdbNPBTc_n8nlogo.png%3Fauto%3Dformat%2Ccompress&exph=630&expw=2200&q=N8N+Logo&FORM=IRPRST&ck=36DE29F1844E6463D360283806F0E125&selectedIndex=2&itb=0&cw=1229&ch=552&ajaxhist=0&ajaxserp=0" height = "10px" width = "30px"/>
+    <img src="https://images.prismic.io/oxylabs-web/Z_0ZvuvxEdbNPBTc_n8nlogo.png?auto=format,compress" width="60" height="20"/>
+
 </div>
 </details>
 
@@ -192,7 +193,7 @@
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src = "https://technewskb.com/wp-content/uploads/2016/09/postgresql-681x249.gif"/>
+      <img src = "https://technewskb.com/wp-content/uploads/2016/09/postgresql-681x249.gif" height = "10" width= "20"/>
     </td>
   </tr>
 
