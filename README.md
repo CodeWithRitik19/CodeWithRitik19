@@ -23,7 +23,7 @@
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ Everything about me is available on **[My Website](https://ritik.edtech-community.com)** where I share my work, ideas, and projects.  
-- 🔭 I’m currently building **Agrilearn AI**, an AI-first platform for agricultural insights, along with contributing to **Tech Dev Club**, a growing community of developers and creators.  
+- 🔭 I’m currently building **Chartik.Ai**, a powerfull AI Assistant , along with contributing to **ED-Tech Community**, a growing community of developers and creators.  
 - 🌱 I’m learning **MERN Stack**, **AI and Machine Learning**, and exploring **Blockchain** to strengthen my technical foundation.  
 - 👯 I’m open to collaborating on **full stack projects**, **automation tools**, and **AI-driven applications**.  
 - 🤝 I’m looking for guidance in **system design**, **scalable architectures**, and advanced **AI model development**.  
@@ -132,6 +132,7 @@
     <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=lSo3zFG1&id=0B35EABEA6334C13F62AD74ED77A7F340A9D21EC&thid=OIP.lSo3zFG1Js6rCMqLgJjcSgHaCH&mediaurl=https%3A%2F%2Fimages.prismic.io%2Foxylabs-web%2FZ_0ZvuvxEdbNPBTc_n8nlogo.png%3Fauto%3Dformat%2Ccompress&exph=630&expw=2200&q=N8N+Logo&FORM=IRPRST&ck=36DE29F1844E6463D360283806F0E125&selectedIndex=2&itb=0&cw=1229&ch=552&ajaxhist=0&ajaxserp=0" />
 </div>
 </details>
 
@@ -142,13 +143,12 @@
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
       <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    </td>
-  </tr>
+    
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </td> 
+      </tr>
 
   <tr>
     <td>🌐 <strong>Web Development</strong></td>
@@ -192,6 +192,7 @@
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src = "https://technewskb.com/wp-content/uploads/2016/09/postgresql-681x249.gif"/>
     </td>
   </tr>
 
@@ -200,8 +201,8 @@
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+     
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
     </td>
   </tr>
 
@@ -235,8 +236,8 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45">
-    <img src="https://skillicons.dev/icons?i=go,rust">
-    <h3>Frontend Development:</h3>
+  
+  <h3>Frontend Development:</h3>
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45">
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="45" height="45">
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45">
@@ -265,16 +266,16 @@
 
 ## ❤️ Let's get connected:
 <p>
-    <a href="https://twitter.com/" target="_blank">
+    <a href="https://x.com/ErritikK17813?t=5DUyhbd-Qv83mW5Xb9DECA&s=09" target="_blank">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px">
     </a>
-    <a href="https://www.linkedin.com/in/" target="_blank">
+    <a href="www.linkedin.com/in/ritik-kumar-111677251" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
     </a>
-    <a href="https://t.me/" target="_blank">
+    <a href="https://t.me/Ritikgoswamiai" target="_blank">
         <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30px">
     </a>
-    <a href="https://www.instagram.com/" target="_blank">
+    <a href="https://www.instagram.com/codewithritik19?igsh=MXUxeHJjNHF5Z3Mz" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px">
     </a>
 </p>
@@ -295,8 +296,25 @@
 - **Automation and Web Scraping:**
   - Developed automation scripts using Selenium for efficient and reliable processes.
   - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
+ 
+- **AI & Machine Learning Development:**
+ - Built and deployed Machine Learning models for intelligent decision-making and prediction tasks.
+ - Implemented Natural Language Processing (NLP) pipelines for text understanding and conversational AI.
+ - Trained custom models using TensorFlow/PyTorch and optimized them for performance and accuracy.
+ - Integrated ML models with applications via APIs to deliver real-time inference.
+ - Worked on dataset preprocessing, feature engineering, model evaluation, and hyperparameter tuning.
 
-    
+**AI Agents & Workflow Automation:**
+
+- Developed multi-step AI Agents using n8n / automation pipelines to automate complex workflows such as email processing, job search, and real-time notifications.
+
+- Designed autonomous agents capable of interacting with external APIs, performing decision-based actions, and generating reports.
+
+- Integrated voice-controlled and chat-based interfaces for enhanced user interaction.
+
+- Implemented agent collaboration logics such as task scheduling, chaining, and event-driven execution.
+
+- Built end-to-end AI assistant capable of web access, data scraping, and automated responses.
 
 
 
