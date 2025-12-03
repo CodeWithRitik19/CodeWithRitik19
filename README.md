@@ -132,7 +132,7 @@
     <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
-    <img src="https://www.bing.com/images/search?view=detailV2&ccid=lSo3zFG1&id=0B35EABEA6334C13F62AD74ED77A7F340A9D21EC&thid=OIP.lSo3zFG1Js6rCMqLgJjcSgHaCH&mediaurl=https%3A%2F%2Fimages.prismic.io%2Foxylabs-web%2FZ_0ZvuvxEdbNPBTc_n8nlogo.png%3Fauto%3Dformat%2Ccompress&exph=630&expw=2200&q=N8N+Logo&FORM=IRPRST&ck=36DE29F1844E6463D360283806F0E125&selectedIndex=2&itb=0&cw=1229&ch=552&ajaxhist=0&ajaxserp=0" height = "200" width = "400"/>
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=lSo3zFG1&id=0B35EABEA6334C13F62AD74ED77A7F340A9D21EC&thid=OIP.lSo3zFG1Js6rCMqLgJjcSgHaCH&mediaurl=https%3A%2F%2Fimages.prismic.io%2Foxylabs-web%2FZ_0ZvuvxEdbNPBTc_n8nlogo.png%3Fauto%3Dformat%2Ccompress&exph=630&expw=2200&q=N8N+Logo&FORM=IRPRST&ck=36DE29F1844E6463D360283806F0E125&selectedIndex=2&itb=0&cw=1229&ch=552&ajaxhist=0&ajaxserp=0" height = "10px" width = "30px"/>
 </div>
 </details>
 
@@ -269,7 +269,7 @@
     <a href="https://x.com/ErritikK17813?t=5DUyhbd-Qv83mW5Xb9DECA&s=09" target="_blank">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px">
     </a>
-    <a href="www.linkedin.com/in/ritik-kumar-111677251/" target="_blank">
+    <a href="https://www.linkedin.com/in/ritik-kumar-111677251/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
     </a>
     <a href="https://t.me/Ritikgoswamiai" target="_blank">
