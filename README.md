@@ -193,7 +193,7 @@
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src = "https://technewskb.com/wp-content/uploads/2016/09/postgresql-681x249.gif" height = "30" width= "95"/>
+      <img src = "https://technewskb.com/wp-content/uploads/2016/09/postgresql-681x249.gif" height = "27" width= "110"/>
     </td>
   </tr>
 
