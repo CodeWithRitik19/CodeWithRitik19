@@ -443,7 +443,7 @@ I contribute regularly to open-source projects and love collaborating with other
 
 
 <div align="center">
-    © 2021 Brajesh Kumar
+    © 2020 ritik kumar
 </div>
 
 <div align="center">
