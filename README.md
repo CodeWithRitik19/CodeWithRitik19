@@ -89,29 +89,6 @@
 
 <!-- <br><br><br> -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding-right: 4px;">
-        <a href="https://github.com/CodeWithRtitik19">
-          <img 
-            alt="ritik's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=CodeWithRtik19&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=github_dark" 
-          />
-        </a>
-      </td>
-      <td style="padding-left: 4px;">
-        <a href="https://git.io/streak-stats">
-          <img 
-            alt="GitHub Streak"
-            src="https://streak-stats.demolab.com/?user=CodeWithRitik19&theme=midnight_purple&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=10"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
   <img 
