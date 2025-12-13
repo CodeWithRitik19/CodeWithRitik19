@@ -93,10 +93,10 @@
   <table>
     <tr>
       <td style="padding-right: 4px;">
-        <a href="https://github.com/Brajesh31">
+        <a href="https://github.com/CodeWithRtitik19">
           <img 
-            alt="Brajesh's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=github_dark" 
+            alt="ritik's GitHub Stats"
+            src="https://github-readme-stats.vercel.app/api?username=CodeWithRtik19&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=github_dark" 
           />
         </a>
       </td>
@@ -104,7 +104,7 @@
         <a href="https://git.io/streak-stats">
           <img 
             alt="GitHub Streak"
-            src="https://streak-stats.demolab.com/?user=Brajesh31&theme=midnight_purple&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=10"
+            src="https://streak-stats.demolab.com/?user=CodeWithRitik19&theme=midnight_purple&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=10"
           />
         </a>
       </td>
