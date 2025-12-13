@@ -37,6 +37,18 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
+## ⏰ My Coding Activity
+<div align="center">
+  <a href="https://wakatime.com/@Brajesh31">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&theme=vision-friendly-dark&layout=compact" alt="WakaTime Stats"/>
+</a>
+</div>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+
+
+
 ## GitHub Stats 📈
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithRitik19&theme=radical&show_icons=true)-->
 
@@ -74,7 +86,31 @@
     </tr>
   </table>
 </div>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<!-- <br><br><br> -->
 
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 4px;">
+        <a href="https://github.com/Brajesh31">
+          <img 
+            alt="Brajesh's GitHub Stats"
+            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=github_dark" 
+          />
+        </a>
+      </td>
+      <td style="padding-left: 4px;">
+        <a href="https://git.io/streak-stats">
+          <img 
+            alt="GitHub Streak"
+            src="https://streak-stats.demolab.com/?user=Brajesh31&theme=midnight_purple&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=10"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
