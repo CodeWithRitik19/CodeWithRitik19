@@ -427,26 +427,25 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
 
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     
 
 ### 💡 Contribution & Open Source:
-I contribute regularly to open-source projects and enjoy collaborating with developers across communities. Let's build something meaningful together!
+I contribute regularly to open-source projects and love collaborating with others on GitHub. Let's build something impactful!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithRitik19/CodeWithRitik19/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithRitik19/CodeWithRitik19/main/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeWithRitik19/CodeWithRitik19/main/output/github-contribution-grid-snake.svg">
-  </picture>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 
 <div align="center">
-    © 2021 Ritik Kumar
+    © 2021 Brajesh Kumar
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </div>
-
