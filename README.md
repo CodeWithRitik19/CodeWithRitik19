@@ -22,7 +22,7 @@
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ Everything about me is available on **[My Website](https://ritik.edtech-community.com)** where I share my work, ideas, and projects.  
+- 🙋‍♂️ Everything about Ritik Kumar, also known as CodeWithRitik, is an AI Developer and Founder focused on building real-world tech solutions.is available on **[My Website](https://ritik.edtech-community.com)** where I share my work, ideas, and projects.  
 - 🔭 I’m currently building **Chartik.Ai**, a powerfull AI Assistant , along with contributing to **ED-Tech Community**, a growing community of developers and creators.  
 - 🌱 I’m learning **MERN Stack**, **AI and Machine Learning**, and exploring **Blockchain** to strengthen my technical foundation.  
 - 👯 I’m open to collaborating on **full stack projects**, **automation tools**, and **AI-driven applications**.  
