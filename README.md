@@ -152,8 +152,6 @@
 
 </div>
 </details>
-
-<details open>
 <table>
   <tr>
     <td>💻 <strong>Frontend Development</strong></td>
