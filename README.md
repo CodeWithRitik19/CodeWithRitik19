@@ -4,7 +4,7 @@
 ### <h1 align="center">Hello Folks 👋, I'm Ritik Kumar</h1><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Design.+Create.;Passionate+Full+Stack+Developer;Crafting+seamless+web+experiences;AI/ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Founder & .Ceo;Full+Stack+Developer;Technology+Entrepreneur;AI/ML+Engineer" alt="Typing SVG" />
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -22,19 +22,29 @@
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ Everything about Ritik Kumar, also known as CodeWithRitik, is an AI Developer and Founder focused on building real-world tech solutions.is available on **[My Website](https://ritik.edtech-community.com)** where I share my work, ideas, and projects.  
-- 🔭 I’m currently building **vision.Ai**, a powerfull AI Assistant , along with contributing to **OrigoHOST Community**,AS a **Co-founder & director**, a growing community of developers and creators.  
-- **founder of Binarize technologies pvt. ltd**
-- 🌱 I’m learning **MERN Stack**, **AI and Machine Learning**, and exploring **Blockchain** to strengthen my technical foundation.  
-- 👯 I’m open to collaborating on **full stack projects**, **automation tools**, and **AI-driven applications**.  
-- 🤝 I’m looking for guidance in **system design**, **scalable architectures**, and advanced **AI model development**.  
-- 💬 You can reach out to me for help with web development, automation, or AI basics.  
-- ⚡ **Fun fact**: I love gaming and enjoy experimenting with new tech in my spare time.  
-- I enjoy building clean and scalable digital products with a focus on problem solving and user experience.  
-- Skilled in:  
-  - **React, HTML, CSS, JavaScript** for creating responsive and interactive interfaces.  
-  - **Python, FastAPI, Selenium, BeautifulSoup** for automation, backend development, and data extraction.  
-- Previously contributed to several full stack projects, gaining hands-on experience across frontend and backend environments.
+## 👨‍💻 About Me
+
+- 🚀 **Hi, I'm Ritik Kumar**, an **AI Engineer**, **Technology Entrepreneur**, and **Founder & CEO of Binarize Technologies Pvt. Ltd.**, passionate about building **AI-powered products**, **automation systems**, and **scalable software** that solve real-world problems.
+
+- 🏢 Currently serving as **Co-Founder & Community Director at OrigoHOST**, where I'm helping build one of India's fastest-growing communities for developers, innovators, and entrepreneurs.
+
+- 💊 Also working as **Executive Director (Technology)** at **Yennick Pharma Pvt. Ltd.**, leading digital transformation, AI adoption, and technology strategy.
+
+- 🤖 I'm currently building **Vision.AI**, an intelligent AI ecosystem focused on productivity, automation, and next-generation AI experiences.
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering (Artificial Intelligence)** while continuously learning and applying modern technologies to real-world products.
+
+- 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, **Generative AI**, **Computer Vision**, **Automation**, **System Design**, and **Full-Stack Development**.
+
+- ⚙️ Experienced with **Python**, **FastAPI**, **React**, **TypeScript**, **Node.js**, **PostgreSQL**, **Supabase**, **Git**, **Docker**, **REST APIs**, and modern cloud technologies.
+
+- 📚 I believe in **learning publicly**, **building consistently**, and **sharing knowledge** through open-source projects, technical content, and developer communities.
+
+- 🤝 Always open to collaborating on **AI products**, **SaaS platforms**, **startup ideas**, **automation tools**, and impactful technology projects.
+
+- 🌍 **Mission:** To build technology that improves millions of lives and establish globally recognized technology companies from India.
+
+> **"Build. Learn. Innovate. Repeat." 🚀**
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
