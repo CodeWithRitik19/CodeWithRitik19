@@ -56,7 +56,7 @@
 ## GitHub Stats 📈
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithRitik19&theme=radical&show_icons=true)-->
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodeWithRitik19&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWithRitik19&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
  
 <div style="text-align: center;">
   <img 
