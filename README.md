@@ -22,6 +22,7 @@
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
+## 👨‍💻 About Me
 
 - 🚀 **Hi, I'm Ritik Kumar**, an **AI Engineer**, **Technology Entrepreneur**, and **Founder & CEO of Binarize Technologies Pvt. Ltd.**, passionate about building **AI-powered products**, **automation systems**, and **scalable software** that solve real-world problems.
 
@@ -98,11 +99,7 @@
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td style="padding: 10px; vertical-align: top;">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikkumarAI&layout=compact&theme=github_dark&hide_border=true"
-  alt="Top Languages"
-  width="500"
-/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikkumarAI&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="500px">
       </td>
       <td style="padding: 10px; vertical-align: top;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitikkumarAI&theme=midnight_purple&hide_border=true" alt="Language Pie Chart" width="500px">
@@ -112,31 +109,20 @@
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-<div align="center">
 
-<table style="border: none; padding: 0; margin: 0;">
-  <tr>
+<p align="center">
+  <table style="border: none; padding: 0; margin: 0;">
+    <tr>
+      <td style="padding: 10px; vertical-align: top;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RitikkumarAI&theme=midnight_purple" width="501px">
+      </td>
+      <td style="padding: 10px; vertical-align: top;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RitikkumarAI&theme=midnight_purple&utcOffset=8" width="501px">
+      </td>
+    </tr>
+  </table>
+</p>
 
-    <td style="padding: 10px; vertical-align: top;">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RitikkumarAI&theme=midnight_purple"
-        width="501px"
-        alt="GitHub Stats"
-      />
-    </td>
-
-    <td style="padding: 10px; vertical-align: top;">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RitikkumarAI&theme=midnight_purple&utcOffset=5.5"
-        width="501px"
-        alt="Productive Time"
-      />
-    </td>
-
-  </tr>
-</table>
-
-</div>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
