@@ -141,15 +141,17 @@
 
 ## 🎯 Expertise Areas
 
-
-<td>💻 Development Environment</td>
+<details open>
+ <td>💻 Development Environment</td>
 <div align="center">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
     <img src="https://images.prismic.io/oxylabs-web/Z_0ZvuvxEdbNPBTc_n8nlogo.png?auto=format,compress" width="100" height="40"/>
-
+</div>
+</details>
+<table>
 
   <tr>
     <td>💻 <strong>Frontend Development</strong></td>
