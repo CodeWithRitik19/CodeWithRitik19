@@ -4,7 +4,7 @@
 ### <h1 align="center">Hello Folks 👋, I'm Ritik Kumar</h1><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Founder & .Ceo;Full+Stack+Developer;Technology+Entrepreneur;AI/ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Technology+Entrepreneur;Founder+%26+CEO+of+Binarize+Technologies;Co-Founder+of+OrigoHOST;Executive+Director+at+Yennick+Pharma" alt="Typing SVG" />
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
